@@ -1,0 +1,24 @@
+{
+  "name": "trprojects",
+  "version": "1.0.0",
+  "description": "Containing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MphoGifty21/TRProjects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MphoGifty21/TRProjects/issues"
+  },
+  "homepage": "https://github.com/MphoGifty21/TRProjects#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
